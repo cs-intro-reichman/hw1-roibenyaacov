@@ -19,6 +19,6 @@ public class TimeFormat {
 			System.out.println( hours + ":" + "0" + minutes + " AM");
 		}
 		else 
-			System.out.println( hours + ":" + minutes + " AM");
+			System.out.println( hours + ":" + "0" + minutes + " AM");
 	}
 }
